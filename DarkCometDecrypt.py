@@ -1,7 +1,7 @@
 """
 RC4 Decryption Script
 
-Author: Alessandro Salucci
+Author: 0xAsYWx1Y2Np
 Date: 20.05.2025
 Description:
     This script reads a file containing hexadecimal-encoded data.
@@ -10,9 +10,6 @@ Description:
     and then decrypting the byte data using the RC4 algorithm with a provided passphrase.
     Finally, the results (original hex, decoded bytes, SHA-256 hash, and decrypted text)
     are saved into a CSV file for easy analysis.
-
-    This script is part of the Cyber Security Analyst (Incident Response) assessment
-    by Avantec (Immersive Labs).
 
 Requirements:
     - Python 3.x
